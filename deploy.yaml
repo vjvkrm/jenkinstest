@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: containerName
-        image: tobeadvised
+        image: vjvkrm/devops2
         ports:
         - containerPort: 8080
